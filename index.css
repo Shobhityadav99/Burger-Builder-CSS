@@ -10,7 +10,7 @@
     background: linear-gradient(#bc581e,#e27b36);
     border-radius: 50% 50% 0 0;
     box-shadow: inset -15px 0 #c15711;
-    margin: auto;
+    margin: 2% auto;
   }
 
   .salad {
@@ -18,5 +18,14 @@
       width: 93%;
       background: linear-gradient(#228c1d,#91ce50);
       border-radius: 20px;
-      margin: auto;
+      margin: 2% auto;
+  }
+
+  .bread-bottom {
+      height: 13%;
+      width: 80%;
+      background: linear-gradient(#f08e4a,#e27b36);
+      margin: 2% auto;
+      box-shadow: inset -15px 0 #c15711;
+      border-radius: 0 0 30px 30px;
   }
